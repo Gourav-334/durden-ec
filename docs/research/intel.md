@@ -1,4 +1,4 @@
-# INTEL
+# INTEL STANDARDS
 
 
 ## **0. Introduction**

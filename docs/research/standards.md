@@ -1,4 +1,4 @@
-# STANDARDS
+# COMMUNITY STANDARDS
 
 
 ## **0. Introduction**
