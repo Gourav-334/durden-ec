@@ -87,6 +87,6 @@ $$ \fbox{8) Feedback \& Continuation} $$
 
 ## iv. Control Flow Diagram
 
-![CFD](./Images/cfd.png)
+![CFD](./../assets/cfd.png)
 
 ---

@@ -1,5 +1,5 @@
 # NEXT
 
-- Global components access
+- 
 
 ---
