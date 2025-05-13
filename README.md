@@ -29,6 +29,7 @@ All directories on this repositary have their own `README` file in `README ({pat
 - `assets/` - Contains images, media & readable materials.
 - `docs/` - Contains all the documentation.
 - `misc/` - Contains miscellaneous files which aren't very important.
+- `test/` - Contains each pilot run & unit test directory.
 
 
 ## 5. Installation
