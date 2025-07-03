@@ -1,0 +1,3 @@
+; The syntax to print "Hello, World!".
+
+display(Hello, World!)
