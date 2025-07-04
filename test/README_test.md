@@ -8,6 +8,7 @@ This directory contains more sub-directories, that were/are part of tests conduc
 
 ## **1. Sub-Directory Descriptions**
 
-- `test_exec` - Pilot testing on translation & binary compilation.
+- `test-exec` - Pilot testing on translation & binary compilation.
+- `elf-gen` - Testing for micro ELF binary generator.
 
 ---
