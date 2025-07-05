@@ -3,7 +3,7 @@
 
 ## 1. Introduction
 
-Greetings readers! I am **Gourav**, and started ***Maltose*** as an open-source project with aim of creating an assembler that has very intuitive syntax for assembly programmers, currently limited to **x86 processors** (upto **64-bit** architectures). I know it is not going to be made immediately or easily, which resonates with most of the good engineering pieces. Also I don't know how much useful viewers will find it or how many people will come to know about it, but I am really excited for getting this project done in right way. I have tried to keep the documents as descriptive & clear as possible. Still for any doubt, you can reach me out through the links given in the **6th** section.
+Greetings readers! I am **Gourav**, and started ***DEC*** (formly **Maltose**) as an open-source project with aim of creating an assembler having intuitive syntax for assembly programmers, now with plan to scale it as complete **source-to-memory** toolchain. Current focus is limited to **x86 processors**. I know it is not going to be made immediately or easily, which resonates with most of the quality engineering pieces. I have tried to keep the documents as descriptive & clear as possible. Still for any doubt, you can reach me out through the links given in the **6th** section.
 
 All directories on this repositary have their own `README` file in `README ({path-to-dir}).md` format. This primarily explains the role of files & directories in that particular directory, which can help readers navigate easily through their desired focus area. While for parent/root directory, the information of its files & directories are mentioned in next section (**section 2**).
 
@@ -11,15 +11,14 @@ All directories on this repositary have their own `README` file in `README ({pat
 ## 2. Features
 
 - Intuitive syntax grammar
-- Support for **x86** processors
-- Inline **GAS** code
-- Integration with **C** & **C++**
+- Focused on portability
+- Compatible with GCC & LLVM
 
 
 ## 3. System Requirements
 
-- **<u>Processor</u>:** Intel/AMD (atleast 8-bit)
-- **<u>Platform</u>:** Linux (any distro) / Windows
+- **<u>Processor</u>:** Intel/AMD (for now)
+- **<u>Platform</u>:** Linux (any distro)
 - **<u>RAM</u>:** ?
 - **<u>Space</u>:** ?
 
@@ -33,6 +32,8 @@ All directories on this repositary have their own `README` file in `README ({pat
 
 
 ## 5. Installation
+
+*\*Coming soon...*
 
 
 ## 6. Personal Information
