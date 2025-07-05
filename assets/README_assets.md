@@ -2,6 +2,7 @@
 
 
 - `cfd.png` - The **Qualine-SDLC** cycle.
-- `maltose_logo.png` - Current logo of **Maltose** assembler.
+- `dec_logo.png` - Current logo for **DEC** project.
+- `maltose_logo.png` - Older logo of **DEC** (then ***Maltose***).
 
 ---

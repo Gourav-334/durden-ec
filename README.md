@@ -1,4 +1,7 @@
-# MALTOSE v0.1.0
+# DURDEN'S ENGINE COLLECTION
+
+
+<img src="./assets/dec_logo.png" alt="Durden's Engine Collection Logo" style="width:250px; height:auto;" />
 
 
 ## 1. Introduction
